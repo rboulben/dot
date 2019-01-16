@@ -1,0 +1,2 @@
+file -bi <filename> # Detect file encoding
+

@@ -1,0 +1,2 @@
+# Add existing user to existing group
+usermod -aG <group> <user>

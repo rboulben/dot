@@ -1,0 +1,2 @@
+# Detect and list available drivers for devices graphic card
+ubuntu-drivers devices
